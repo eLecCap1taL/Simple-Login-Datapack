@@ -1,2 +1,2 @@
 function simple_login:tick/checker
-scoreboard players enable @a logout
+function simple_login:tick/offline_check
